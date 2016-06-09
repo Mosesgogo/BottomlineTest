@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Configuration.timeout;
 import static com.codeborne.selenide.Selenide.open;
 
 /**
- * Created by Obaro on 09/06/2016.
+ * Created by Moses on 09/06/2016.
  */
 public class Configuration
 {

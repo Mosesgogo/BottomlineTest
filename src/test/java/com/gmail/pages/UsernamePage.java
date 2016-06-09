@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Selenide.$;
 
 
 /**
- * Created by Obaro on 09/06/2016.
+ * Created by Moses on 09/06/2016.
  */
 public class UsernamePage
 {
